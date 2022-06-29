@@ -15,4 +15,8 @@
   - PreOrder Traversal
   - PostOrder Traversal
 ## 2. Binary Tree
-
+  - Create BinaryTreeNode
+  - Take Input Manually
+  - Take Input Recursively
+  - Print Recursively
+  - Height of Binary Tree
