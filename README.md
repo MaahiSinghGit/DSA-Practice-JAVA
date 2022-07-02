@@ -19,6 +19,8 @@
   - Take Input Manually
   - Take Input Recursively
   - Print Recursively
+  - Take Input Level Wise
+  - Print Tree Level Wise
   - Height of Binary Tree
   - Count Node in Binary Tree
   - Mirror of Binary Tree
