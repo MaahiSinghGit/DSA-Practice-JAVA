@@ -28,3 +28,5 @@
   - PreOrder Traversal
   - PostOrder Traversal
  
+ ## 3. Binary Search Tree(BST)
+ 
